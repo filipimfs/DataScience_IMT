@@ -5,11 +5,9 @@ This repository contains the codes and projects developed during my specializati
 ## 📂 Repository Structure
 
 ```
-📁 imt-ds-ai
-├── 📂 notebooks      # Jupyter Notebooks with analyses and models
-├── 📂 datasets       # Sample datasets used in the projects
-├── 📂 scripts        # Python scripts for data processing and modeling
-├── 📂 reports        # Project reports and documentation
+📁 DataScience_IMT
+├── 📂 MachineLearning          # Files, data, notebooks etc from Machine Learning course
+├── 📂 StatisticalDataAnalysis  # Files, data, notebooks etc from Statistical Data Analysis course
 └── README.md         # This file
 ```
 
@@ -21,28 +19,16 @@ This repository contains the codes and projects developed during my specializati
 - Big Data & Cloud Computing
 - Statistical Analysis & Data Visualization
 
-## 🔧 Requirements
-To run the projects, install the required dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/imt-ds-ai.git
+   git clone https://github.com/filipimfs/DataScience_IMT.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd imt-ds-ai
+   cd DataScience_IMT
    ```
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+3. Enjoy!
 
 ## 📬 Contact
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/filipimfs) or open an issue if you have any questions!
